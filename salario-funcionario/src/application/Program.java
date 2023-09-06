@@ -34,6 +34,3 @@ public class Program {
 	
 	}
 }
-
-/* POR ALGUM MOTIVO O VALOR TÁ REMOVENDO MAIS TAXA AO INVES DE 
- * ADICIONAR A PORCENTAGEM */
