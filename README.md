@@ -1,2 +1,2 @@
 # salario-funcionario
-exercício dois de classes atributos e métodos estáticos
+exercício dois de classes, atributos e métodos estáticos
